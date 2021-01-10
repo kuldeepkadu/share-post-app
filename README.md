@@ -1,13 +1,13 @@
 # Snap Shots
 <code>
   <p>
-      <img src="images/Screenshot (36).png" width="500" > 
-      <img src="images/Screenshot (37).png" width="500" style="margin-left:150px;">
+      <img src="images/Screenshot (36).png" width="400" > 
+      <img style="margin-left:150px;" src="images/Screenshot (37).png" width="400" >
   </p>
   </br> 
   <p>
-      <img src="images/Screenshot (38).png" width="500" >
-      <img src="images/Screenshot (39).png" width="500" style="margin-left:150px;">
+      <img src="images/Screenshot (38).png" width="400" >
+      <img style="margin-left:150px;" src="images/Screenshot (39).png" width="400" >
   </p>
 </code>
 </br>
