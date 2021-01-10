@@ -1,13 +1,9 @@
 # Snap Shots
 
-    <p>
       <img src="images/Screenshot (36).png" width="400" title="Login">
       <img src="images/Screenshot (37).png" width="400" alt="Sign Up">
-    </p>
-    <p>
       <img src="images/Screenshot (38).png" width="400" title="Login">
-      <img src="imgages/Screenshot (39).png" width="400" alt="Sign Up">
-    </p>
+      <img src="images/Screenshot (39).png" width="400" alt="Sign Up">
 
 # SharePostApp
 
