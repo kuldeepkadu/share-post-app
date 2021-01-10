@@ -2,12 +2,12 @@
 <code>
   <p>
       <img src="images/Screenshot (36).png" width="400" > 
-      <img src="images/Screenshot (37).png" width="400" style="margin-left:30px;">
+      <img src="images/Screenshot (37).png" width="400" style="margin-left:50px;">
   </p>
   </br>
   <p>
       <img src="images/Screenshot (38).png" width="400" >
-      <img src="images/Screenshot (39).png" width="400" style="margin-left:30px;">
+      <img src="images/Screenshot (39).png" width="400" style="margin-left:50px;">
   </p>
 </code>
 </br>
