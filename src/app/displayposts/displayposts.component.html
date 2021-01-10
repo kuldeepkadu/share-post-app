@@ -1,0 +1,35 @@
+<div>
+    <table class="table table-striped card" style="width: 80%;" align="center">
+        <tr *ngFor="let post of posts" class="card-body">
+            <td>
+                    <h5 class="card-title" style="overflow: hidden;
+                    display: -webkit-box;
+                    -webkit-line-clamp: 6;
+                    -webkit-box-orient: vertical;">{{ post.title }}</h5>
+            </td>
+            <td>
+                <h6 class="card-subtitle mb-2 text-muted">Description</h6>
+                        <p class="card-text" style="overflow: hidden;
+                            display: -webkit-box;
+                            -webkit-line-clamp: 4;
+                            -webkit-box-orient: vertical;
+                            text-align: justify;">
+                            {{ post.description }}
+                        </p>
+                        <a href="#" class="card-link">Like</a>
+                        <a href="#" class="card-link">Share</a>
+                   
+            </td>
+        </tr>
+    </table>
+
+    <!--<div class="card" style="width: 18rem;">
+        <div class="card-body" *ngFor="let post of posts">
+            <h5 class="card-title">{{ post.title }}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">Description</h6>
+            <p class="card-text">{{ post.description }}</p>
+            <a href="#" class="card-link">Like</a>
+            <a href="#" class="card-link">Share</a>
+        </div>
+    </div>-->
+</div>

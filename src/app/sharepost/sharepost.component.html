@@ -1,0 +1,20 @@
+<h2 class="text-right">Post your Thoughts..</h2>
+<div class="row-center">
+    <div class="col">
+        <div class="jumbotron">
+            <form [formGroup]="angForm" (ngSubmit)="postdata(angForm)" autocomplete="off">
+                <div class="form-group">
+                    <label for="name">Title</label>
+                    <input type="text" name="title" formControlName="title" autocomplete="off"
+                        class="form-control input-sm" placeholder="Title">
+                </div>
+                <div class="form-group">
+                    <label for="name">Description</label>
+                    <textarea type="textarea" name="description" formControlName="description" autocomplete="off"
+                        class="form-control" placeholder="Description" rows="7"></textarea>
+                </div>
+                <button type="submit" onclick="alert('Successfully Posted Your Thougths:');" class="btn btn-success">Post</button>
+            </form>
+        </div>
+    </div>
+</div>
