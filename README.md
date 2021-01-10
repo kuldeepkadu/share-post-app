@@ -1,10 +1,10 @@
 # Snap Shots
-
+<code>
       <img src="images/Screenshot (36).png" width="400" >
       <img src="images/Screenshot (37).png" width="400" >
       <img src="images/Screenshot (38).png" width="400" >
       <img src="images/Screenshot (39).png" width="400" >
-
+</code>
 # SharePostApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
