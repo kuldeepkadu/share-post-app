@@ -1,9 +1,13 @@
 # Snap Shots
 <code>
+  <p>
       <img src="images/Screenshot (36).png" width="400" >
       <img src="images/Screenshot (37).png" width="400" >
+  </p>
+  <p>
       <img src="images/Screenshot (38).png" width="400" >
       <img src="images/Screenshot (39).png" width="400" >
+  </p>
 </code>
 </br>
 # SharePostApp
