@@ -1,4 +1,4 @@
-# Snap Shots
+# Snap-Shots
 <code>
   <p>
       <img src="images/Screenshot (36).png" width="400" > 
