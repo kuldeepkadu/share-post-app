@@ -6,7 +6,7 @@
   </p>
   </br> 
   <p>
-      <img style="margin-left:150px;" src="images/Screenshot (42).png" width="800" >
+      <img style="margin-left:150px;" align="center" src="images/Screenshot (42).png" width="600" >
   </p>
 </code>
 </br>
